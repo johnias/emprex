@@ -1,0 +1,39 @@
+:root{
+    --color1:#850FA6;
+    --color2:#1C1973;
+    --color3:#1B1959;
+    --color4:#00010D;
+    --color5:#202959; 
+}
+
+*{
+    box-sizing: border-box;
+}
+.encabezado{
+    text-align: center;
+    margin: 0 auto;
+    width: 95%;
+
+}
+
+body{
+    background-color: #9378E3;
+    font-family: 'Gluten', cursive;
+    /* font-family: 'Press Start 2P', cursive; */
+    /* font-family: 'Work Sans', sans-serif; */
+}
+
+img{
+    max-width: 30%;
+    min-width: 10%;
+}
+.footer{
+    text-align: center;
+}
+.main{
+    text-align: center;
+}
+.main p{
+    text-align: justify;
+}
+
